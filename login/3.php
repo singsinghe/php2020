@@ -1,0 +1,2 @@
+<?
+    echo $_COOKIE['assa'];  
